@@ -1,0 +1,46 @@
+.highlight{
+background-color: yellow;
+font-size: 25px;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 25px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 25px;
+}
+.mainClass{
+    font-size: 25px;
+}
+
+
+.visible{
+    display: block;
+    font-size: 25px;
+}
+
+.hidden{
+   display: none;
+}
+
+.sect{
+    padding-top: 30px;
+}
+
+
+
+
+
+.pars{
+    font-size: 20px;
+}
+.pa_event{
+    pointer-events: fill;
+}
+.pa_noevent{
+    pointer-events: none;
+}
+
